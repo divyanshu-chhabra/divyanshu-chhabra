@@ -62,6 +62,16 @@ Currently, I'm focused on strengthening my skills in Full-Stack Web Development,
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [SmartGPT](https://github.com/divyanshu-chhabra/SmartGPT) | Responsive AI chat application with generative AI API integration for real-time, context-aware responses. | React.js, JS, HTML5, CSS3, REST APIs |
+| [Stock Trading Platform](https://github.com/divyanshu-chhabra/stock-trading-platform) | Full-stack platform for real-time stock tracking, buy/sell execution, and portfolio management. | MERN Stack, JWT Auth |
+| [Simon Says Game](https://github.com/divyanshu-chhabra/simon-says-game) | Interactive digital version of the classic memory game built with custom front-end logic. | HTML, CSS, JavaScript |
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -70,3 +80,19 @@ Currently, I'm focused on strengthening my skills in Full-Stack Web Development,
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=tokyonight&hide_border=true" alt="Divyanshu's GitHub Streak" />
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:chhabradivyanshu09@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshu-chhabra-b90a89351">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/divyanshu-chhabra">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
