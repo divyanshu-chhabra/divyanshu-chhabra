@@ -1,20 +1,43 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Chhabra[span_2](start_span)[span_2](end_span)</h1>
-<h3 align="center">A passionate Full-Stack Developer & B.Tech IT Student[span_3](start_span)[span_3](end_span)</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshu-chhabra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;B.Tech+Information+Technology;Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <p><b>B.Tech. Information Technology @ J.C Bose University of Science & Technology</b></p>
+
+  <p>
+    <a href="mailto:chhabradivyanshu09@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/divyanshu-chhabra-b90a89351">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/divyanshu-chhabra">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 I am currently pursuing my B.Tech in Information Technology at J.C Bose University of Science & Technology (2023 - 2027)[span_4](start_span)[span_4](end_span).
-* 💻 I specialize in MERN Stack development and building robust, AI-integrated applications[span_5](start_span)[span_5](end_span).
-* 📊 I also enjoy working with Python data analysis libraries like Pandas and NumPy to draw insights from data.
-* 🧠 I am highly focused on problem-solving, having conquered 300+ DSA questions on LeetCode and other platforms[span_6](start_span)[span_6](end_span).
-* 🏋️‍♂️ When I'm not coding or pushing commits, you can usually find me at the gym lifting weights and working on body recomposition!
-* 📫 Reach out to me at: chhabradivyanshu09@gmail.com[span_7](start_span)[span_7](end_span)
+I'm an Information Technology engineering student highly interested in building scalable web applications using the MERN stack and integrating Artificial Intelligence APIs.
+
+I enjoy turning ideas into working systems — from designing responsive front-end interfaces and dynamic UI rendering to developing robust back-end RESTful APIs and secure database schemas. 
+
+Currently, I'm focused on strengthening my skills in Full-Stack Web Development, Data Structures & Algorithms, and Python data libraries like Pandas and NumPy.
+
+---
+
+## 🚀 What I Work On
+
+* 🌐 Full-Stack Development — Building dynamic platforms like stock trading apps using MongoDB, Express.js, React.js, and Node.js.
+* 🤖 AI Integration — Leveraging Generative AI APIs via RESTful endpoints to build context-aware smart chat applications.
+* 🧠 Problem Solving — Actively practicing Data Structures and Algorithms with 300+ problems solved on LeetCode.
+* 📊 Data Analysis — Exploring Python libraries to extract, manipulate, and draw insights from data.
 
 ---
 
@@ -36,33 +59,14 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-<p><i>Strong foundation in OOPS, Computer Networking, Operating Systems, and DBMS[span_8](start_span)[span_8](end_span).</i></p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [SmartGPT](https://github.com/divyanshu-chhabra/SmartGPT.git)[span_9](start_span)[span_9](end_span) | Responsive AI chat application with generative AI API integration for real-time, context-aware responses[span_10](start_span)[span_10](end_span). | React.js, JS, HTML5, CSS3, REST APIs[span_11](start_span)[span_11](end_span) |
-| [Stock Trading Platform](https://github.com/divyanshu-chhabra/stock-trading-platform.git)[span_12](start_span)[span_12](end_span) | Full-stack platform for real-time stock tracking, buy/sell execution, and portfolio management[span_13](start_span)[span_13](end_span). | MERN Stack, JWT Auth[span_14](start_span)[span_14](end_span) |
-| Simon Says Game | Interactive digital version of the classic memory game built with custom front-end logic. | HTML, CSS, JavaScript |
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=radium&hide_border=true" alt="Divyanshu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=radium&hide_border=true" alt="Divyanshu's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=tokyonight&hide_border=true" alt="Divyanshu's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=tokyonight&hide_border=true" alt="Divyanshu's GitHub Streak" />
 </div>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyanshu-chhabra-b90a89351">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> <!--[span_15](start_span)[span_15](end_span) -->
-</p>
