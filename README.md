@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+,+I+am+Divyanshu+chhabra:Full-Stack+Web+Developer;MERN+Stack+Specialist;B.Tech+Information+Technology;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+,+I+am+Divyanshu+chhabra;Full-Stack+Web+Developer;MERN+Stack+Specialist;B.Tech+Information+Technology;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p><b>B.Tech. Information Technology @ J.C Bose University of Science & Technology</b></p>
