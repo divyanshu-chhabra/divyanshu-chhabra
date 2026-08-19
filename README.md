@@ -75,12 +75,11 @@ Currently, I'm focused on strengthening my skills in Full-Stack Web Development,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=tokyonight&hide_border=true" alt="Divyanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=tokyonight&hide_border=true&v=1&cache_seconds=3600" alt="Divyanshu's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=tokyonight&hide_border=true" alt="Divyanshu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=tokyonight&hide_border=true&v=1" alt="Divyanshu's GitHub Streak" />
 </div>
-
 ---
 
 ## 🤝 Let's Connect
