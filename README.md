@@ -1,77 +1,68 @@
+<h1 align="center">Hi 👋, I'm Divyanshu Chhabra[span_2](start_span)[span_2](end_span)</h1>
+<h3 align="center">A passionate Full-Stack Developer & B.Tech IT Student[span_3](start_span)[span_3](end_span)</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyanshu-chhabra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 I am currently pursuing my B.Tech in Information Technology at J.C Bose University of Science & Technology (2023 - 2027)[span_4](start_span)[span_4](end_span).
+* 💻 I specialize in MERN Stack development and building robust, AI-integrated applications[span_5](start_span)[span_5](end_span).
+* 📊 I also enjoy working with Python data analysis libraries like Pandas and NumPy to draw insights from data.
+* 🧠 I am highly focused on problem-solving, having conquered 300+ DSA questions on LeetCode and other platforms[span_6](start_span)[span_6](end_span).
+* 🏋️‍♂️ When I'm not coding or pushing commits, you can usually find me at the gym lifting weights and working on body recomposition!
+* 📫 Reach out to me at: chhabradivyanshu09@gmail.com[span_7](start_span)[span_7](end_span)
+
+---
+
+## 🛠️ Key Expertise
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p><i>Strong foundation in OOPS, Computer Networking, Operating Systems, and DBMS[span_8](start_span)[span_8](end_span).</i></p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [SmartGPT](https://github.com/divyanshu-chhabra/SmartGPT.git)[span_9](start_span)[span_9](end_span) | Responsive AI chat application with generative AI API integration for real-time, context-aware responses[span_10](start_span)[span_10](end_span). | React.js, JS, HTML5, CSS3, REST APIs[span_11](start_span)[span_11](end_span) |
+| [Stock Trading Platform](https://github.com/divyanshu-chhabra/stock-trading-platform.git)[span_12](start_span)[span_12](end_span) | Full-stack platform for real-time stock tracking, buy/sell execution, and portfolio management[span_13](start_span)[span_13](end_span). | MERN Stack, JWT Auth[span_14](start_span)[span_14](end_span) |
+| Simon Says Game | Interactive digital version of the classic memory game built with custom front-end logic. | HTML, CSS, JavaScript |
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-
-# Hi 👋, I'm Divyanshu Chhabra
-
-### 🎓 B.Tech. Information Technology | Full-Stack Web Developer | DSA Enthusiast
-
-[![Email](https://img.shields.io/badge/EMAIL-chhabradivyanshu09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhabradivyanshu09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-divyanshu--chhabra--b30a69351-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-chhabra-b30a69351)
-[![GitHub](https://img.shields.io/badge/GITHUB-divyanshu--chhabra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu-chhabra)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=radium&hide_border=true" alt="Divyanshu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=radium&hide_border=true" alt="Divyanshu's GitHub Streak" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🤝 Let's Connect
 
-🎓 Information Technology student at **J.C. Bose University of Science & Technology, YMCA, Faridabad**.  
-I specialize in full-stack web application development using the **MERN stack**, integrating **GenAI APIs** into responsive user interfaces, and solving complex problems with **300+ Data Structures & Algorithms problems** solved across platforms.
-
-* 🚀 **Currently building:** Full-stack web platforms and interactive AI-powered web tools.
-* 🛠️ **Exploring:** Scalable backend architecture, API latency optimizations, and advanced state management.
-* 🎯 **Goal:** Seeking SDE opportunities to contribute to innovative software engineering teams.
-
----
-
-### 🛠️ Tech Stack
-
-**Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Web Development & Frameworks**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Core Fundamentals & Concepts**  
-![Data Structures](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-* 🤖 **[SmartGPT](https://github.com/divyanshu-chhabra/SmartGPT)**  
-  *Responsive AI chat application built with React.js leveraging Generative AI APIs via REST endpoints for real-time context-aware responses and custom UI rendering.*
-* 📈 **[Stock Trading Platform](https://github.com/divyanshu-chhabra/stock-trading-platform)**  
-  *Full-stack MERN stock trading web platform featuring real-time stock price tracking, interactive charts, portfolio execution, and secure JWT authentication.*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu-chhabra&show_icons=true&theme=tokyonight&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-chhabra&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 📬 Connect With Me
-
-* 📧 **Email:** [chhabradivyanshu09@gmail.com](mailto:chhabradivyanshu09@gmail.com)
-* 💼 **LinkedIn:** [Divyanshu Chhabra](https://www.linkedin.com/in/divyanshu-chhabra-b30a69351)
-* 🌐 **GitHub:** [divyanshu-chhabra](https://github.com/divyanshu-chhabra)
-*
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyanshu-chhabra-b90a89351">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> <!--[span_15](start_span)[span_15](end_span) -->
+</p>
